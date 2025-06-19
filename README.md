@@ -1,2 +1,2 @@
-# kurbetsoft.github.io
+# KurbetSoft
 https://kurbetsoft.github.io
